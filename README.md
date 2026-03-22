@@ -1,13 +1,14 @@
 # portfolio
 BTech CSE student | C/C++ | Projects and learning journey
 # 👨‍💻 Aditya Chamoli  
-### 🚀 Building logic with C/C++ | Future Software Engineer  
+### 🚀 Building logic with C/C++  
 
 ---
 
-## 🧠 About Me
-I am a B.Tech Computer Science student passionate about coding and problem-solving.  
-I focus on building strong fundamentals using C and C++, and I enjoy creating practical projects.
+
+## About Me
+I am a B.Tech Computer Science student with a strong focus on building a solid foundation in programming.  
+My work primarily involves data structures, problem-solving, and writing clear, maintainable code.
 
 ---
 
@@ -22,16 +23,12 @@ I focus on building strong fundamentals using C and C++, and I enjoy creating pr
 ## 📂 Projects
 
 ### 🩺 Health Tracker
-- Console-based app to track daily health data  
-- Simple and beginner-friendly  
-
-### 🏢 Management System
-- Built using C  
-- Supports add, update, delete operations  
-- Uses file handling  
+- Console-based app to track daily health data 
+- Provides analytics  
+ 
 
 ### ⭐ Authentic Review System *(In Progress)*
-- Focused on detecting fake reviews  
+- Authentic Opinion Detection in E-Commerce Platforms Using Multi-Factor Adaptive Scoring  
 - Goal: build a trusted review system  
 
 ---
@@ -43,17 +40,8 @@ I focus on building strong fundamentals using C and C++, and I enjoy creating pr
 
 ---
 
-## 🎯 Goals
-- Crack product-based companies (12–20 LPA)  
-- Become strong in coding interviews  
-- Build impactful projects  
-
----
-
 ## 📫 Connect
 - GitHub: https://github.com/sw9ccgrkgc-sys  
-- LinkedIn: (Add your link here)
 
----
 
-⭐ Always learning, always building.
+
